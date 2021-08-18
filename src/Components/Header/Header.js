@@ -1,20 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
 import React from "react";
+import "styles.css"
 
 const contents = () => (
     
-    <header>
+    <header className="nav">
         <ul>
             <li>
                 <a href="/">Movies</a>
