@@ -2,7 +2,6 @@ import React from "react";
 import DetailPresenter from "./DetailPresenter";
 import { moviesApi, tvApi } from "../../api";
 
-
 class DetailContainer extends React.Component {
   constructor(props) {
     super(props);

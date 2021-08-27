@@ -49,7 +49,7 @@ export default withRouter(({ location: { pathname } }) => (
         <SLink to="/search">Search</SLink>
       </Item>
     </List>
-    ``
+    
   </Header>
 ));
 

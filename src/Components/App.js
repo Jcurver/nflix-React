@@ -1,5 +1,5 @@
-import GlobalStyles from "Components/Header/GlobalStyles";
-import Router from "Components/Header/Router";
+import GlobalStyles from "./GlobalStyles";
+import Router from "./Router";
 import React, { Component } from "react";
 
 
